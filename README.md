@@ -20,6 +20,10 @@ pip install rich
 #### VI. Output
 ![image](https://github.com/KiyoScript/sms/assets/89757149/7fe8d86c-7d0d-4625-bdd0-6944ad605e5a)
 
+#### VII. Account
+ - Username: `202130428`
+ - Password: `123123123`
+
 
 
 
